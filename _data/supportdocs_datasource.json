@@ -42,6 +42,13 @@
         ]
     },
     {
+        "title": "Suppression d'une langue",
+        "url": "https://timyply.github.io/myVocab_Help_FR/Languages/Delete",
+        "tags": [
+            "languages"
+        ]
+    },
+    {
         "title": "How to cook pizza",
         "url": "https://timyply.github.io/myVocab_Help_FR/Sample-FastFood/HowToCookPizza",
         "tags": [
