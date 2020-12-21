@@ -42,6 +42,13 @@
         ]
     },
     {
+        "title": "Suppression de cartes",
+        "url": "https://timyply.github.io/myVocab_Help_FR/Cards/Delete",
+        "tags": [
+            "cards"
+        ]
+    },
+    {
         "title": "Suppression d'une langue",
         "url": "https://timyply.github.io/myVocab_Help_FR/Languages/Delete",
         "tags": [
