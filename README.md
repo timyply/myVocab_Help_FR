@@ -53,6 +53,7 @@ class UIKitExampleController_MinimalCode: UIViewController {
 - [Buy blue boba](https://timyply.github.io/myVocab_Help_FR/Sample-Boba/BuyBlueBoba) (boba) ([edit](https://github.com/timyply/myVocab_Help_FR/edit/DataSource/Sample-Boba/BuyBlueBoba.md))
 - [Buy cream boba](https://timyply.github.io/myVocab_Help_FR/Sample-Boba/BuyCreamBoba) (boba) ([edit](https://github.com/timyply/myVocab_Help_FR/edit/DataSource/Sample-Boba/BuyCreamBoba.md))
 - [Buy orange boba](https://timyply.github.io/myVocab_Help_FR/Sample-Boba/BuyOrangeBoba) (boba) ([edit](https://github.com/timyply/myVocab_Help_FR/edit/DataSource/Sample-Boba/BuyOrangeBoba.md))
+- [Fonctionnement](https://timyply.github.io/myVocab_Help_FR/Tests/HowWorks) (tests) ([edit](https://github.com/timyply/myVocab_Help_FR/edit/DataSource/Tests/HowWorks.md))
 - [How to cook pizza](https://timyply.github.io/myVocab_Help_FR/Sample-FastFood/HowToCookPizza) (fastFood) ([edit](https://github.com/timyply/myVocab_Help_FR/edit/DataSource/Sample-FastFood/HowToCookPizza.md))
 - [How to eat burritos](https://timyply.github.io/myVocab_Help_FR/Sample-FastFood/HowToEatBurritos) (fastFood) ([edit](https://github.com/timyply/myVocab_Help_FR/edit/DataSource/Sample-FastFood/HowToEatBurritos.md))
 - [How to eat grilled cheese](https://timyply.github.io/myVocab_Help_FR/Sample-FastFood/HowToEatGrilledCheese) (fastFood) ([edit](https://github.com/timyply/myVocab_Help_FR/edit/DataSource/Sample-FastFood/HowToEatGrilledCheese.md))
