@@ -62,6 +62,7 @@ class UIKitExampleController_MinimalCode: UIViewController {
 - [Peach smoothie](https://timyply.github.io/myVocab_Help_FR/Sample-Smoothies/Peach) (smoothies) ([edit](https://github.com/timyply/myVocab_Help_FR/edit/DataSource/Sample-Smoothies/Peach.md))
 - [Plum smoothie](https://timyply.github.io/myVocab_Help_FR/Sample-Smoothies/Plum) (smoothies) ([edit](https://github.com/timyply/myVocab_Help_FR/edit/DataSource/Sample-Smoothies/Plum.md))
 - [Red berry smoothie](https://timyply.github.io/myVocab_Help_FR/Sample-Smoothies/RedBerries) (smoothies) ([edit](https://github.com/timyply/myVocab_Help_FR/edit/DataSource/Sample-Smoothies/RedBerries.md))
+- [Version Premium](https://timyply.github.io/myVocab_Help_FR/Purchases/VersionPremium) (purchases) ([edit](https://github.com/timyply/myVocab_Help_FR/edit/DataSource/Purchases/VersionPremium.md))
 
 
 ## Notes
