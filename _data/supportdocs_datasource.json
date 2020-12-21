@@ -1,5 +1,12 @@
 [
     {
+        "title": "Ajout d'une langue",
+        "url": "https://timyply.github.io/myVocab_Help_FR/Languages/Add",
+        "tags": [
+            "languages"
+        ]
+    },
+    {
         "title": "Apple smoothie",
         "url": "https://timyply.github.io/myVocab_Help_FR/Sample-Smoothies/Apple",
         "tags": [

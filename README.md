@@ -47,6 +47,7 @@ class UIKitExampleController_MinimalCode: UIViewController {
 
 ## Table of Contents
 - [404 Page](https://timyply.github.io/myVocab_Help_FR/404) (SupportDocs Integrated File) ([edit](https://github.com/timyply/myVocab_Help_FR/edit/DataSource/myVocab_Help_FR/404.md))
+- [Ajout d'une langue](https://timyply.github.io/myVocab_Help_FR/Languages/Add) (languages) ([edit](https://github.com/timyply/myVocab_Help_FR/edit/DataSource/Languages/Add.md))
 - [Apple smoothie](https://timyply.github.io/myVocab_Help_FR/Sample-Smoothies/Apple) (smoothies) ([edit](https://github.com/timyply/myVocab_Help_FR/edit/DataSource/Sample-Smoothies/Apple.md))
 - [Blueberry smoothie](https://timyply.github.io/myVocab_Help_FR/Sample-Smoothies/Blueberry) (smoothies) ([edit](https://github.com/timyply/myVocab_Help_FR/edit/DataSource/Sample-Smoothies/Blueberry.md))
 - [Buy blue boba](https://timyply.github.io/myVocab_Help_FR/Sample-Boba/BuyBlueBoba) (boba) ([edit](https://github.com/timyply/myVocab_Help_FR/edit/DataSource/Sample-Boba/BuyBlueBoba.md))
