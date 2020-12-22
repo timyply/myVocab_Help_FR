@@ -20,7 +20,7 @@ body {
     h4,
     h5,
     h6 {
-        @include theme("color", $text);
+        @include theme("color", $title);
         font-size: 16px;
         margin-right: 25px;
         margin-left: 25px;
