@@ -40,6 +40,7 @@ body {
 
     hr {
         @include theme("background-color", $horizontal-line);
+        height:0px
     }
 
     code,
