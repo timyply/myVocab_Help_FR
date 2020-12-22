@@ -21,7 +21,7 @@ $themes: (
         title: rgb(33, 100, 165), 
         text: rgba(60, 60, 67, 0.6), 
         link: rgb(3, 102, 214), /* deep blue */
-        horizontal-line: rgba(0, 0, 0, 0), /* medium gray */
+        horizontal-line: transparent, /* medium gray */
         code-block-background: rgb(246, 248, 250), /* light gray */
         inline-code-background: rgba(27, 31, 35, 0.05), /* very dark gray but with alpha, results in light gray */
         blockquote-text: rgb(106, 115, 125), /* dark gray */
@@ -35,7 +35,7 @@ $themes: (
         title: rgb(59, 114, 187), 
         text: rgba(235, 235, 245, 0.6),
         link: rgb(204, 230, 255), /* very light blue */
-        horizontal-line: rgba(0, 0, 0, 0), /* medium dark gray */
+        horizontal-line: transparent, /* medium dark gray */
         code-block-background: rgb(38, 38, 38), /* dark gray */
         inline-code-background: rgb(38, 38, 38), /* dark gray */
         blockquote-text: rgb(191, 191, 191), /* medium light gray */
