@@ -24,6 +24,7 @@ body {
         font-size: 19px;
         margin-right: 15px;
         margin-left: 15px;
+        border:0px;
     }
 
     p {
@@ -40,7 +41,6 @@ body {
 
     hr {
         @include theme("background-color", $horizontal-line);
-        height:0px
     }
 
     code,
