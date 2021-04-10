@@ -61,6 +61,7 @@ class UIKitExampleController_MinimalCode: UIViewController {
 - [How to eat tacos](https://timyply.github.io/myVocab_Help_FR/Sample-FastFood/HowToEatTacos) (fastFood) ([edit](https://github.com/timyply/myVocab_Help_FR/edit/DataSource/Sample-FastFood/HowToEatTacos.md))
 - [How to make spaghetti](https://timyply.github.io/myVocab_Help_FR/Sample-FastFood/HowToMakeSpaghetti) (fastFood) ([edit](https://github.com/timyply/myVocab_Help_FR/edit/DataSource/Sample-FastFood/HowToMakeSpaghetti.md))
 - [How to prepare ramen](https://timyply.github.io/myVocab_Help_FR/Sample-FastFood/HowToPrepareRamen) (fastFood) ([edit](https://github.com/timyply/myVocab_Help_FR/edit/DataSource/Sample-FastFood/HowToPrepareRamen.md))
+- [La carte de la notification ne s'affiche pas](https://timyply.github.io/myVocab_Help_FR/Tests/NotificationBug) (tests) ([edit](https://github.com/timyply/myVocab_Help_FR/edit/DataSource/Tests/NotificationBug.md))
 - [Peach smoothie](https://timyply.github.io/myVocab_Help_FR/Sample-Smoothies/Peach) (smoothies) ([edit](https://github.com/timyply/myVocab_Help_FR/edit/DataSource/Sample-Smoothies/Peach.md))
 - [Plum smoothie](https://timyply.github.io/myVocab_Help_FR/Sample-Smoothies/Plum) (smoothies) ([edit](https://github.com/timyply/myVocab_Help_FR/edit/DataSource/Sample-Smoothies/Plum.md))
 - [Red berry smoothie](https://timyply.github.io/myVocab_Help_FR/Sample-Smoothies/RedBerries) (smoothies) ([edit](https://github.com/timyply/myVocab_Help_FR/edit/DataSource/Sample-Smoothies/RedBerries.md))

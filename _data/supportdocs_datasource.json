@@ -112,6 +112,13 @@
         ]
     },
     {
+        "title": "La carte de la notification ne s'affiche pas",
+        "url": "https://timyply.github.io/myVocab_Help_FR/Tests/NotificationBug",
+        "tags": [
+            "tests"
+        ]
+    },
+    {
         "title": "Peach smoothie",
         "url": "https://timyply.github.io/myVocab_Help_FR/Sample-Smoothies/Peach",
         "tags": [
