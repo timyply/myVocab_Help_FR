@@ -64,7 +64,7 @@ class UIKitExampleController_MinimalCode: UIViewController {
 - [Notifications](https://timyply.github.io/myVocab_Help_FR/Tests/NotificationBug) (tests) ([edit](https://github.com/timyply/myVocab_Help_FR/edit/DataSource/Tests/NotificationBug.md))
 - [Peach smoothie](https://timyply.github.io/myVocab_Help_FR/Sample-Smoothies/Peach) (smoothies) ([edit](https://github.com/timyply/myVocab_Help_FR/edit/DataSource/Sample-Smoothies/Peach.md))
 - [Plum smoothie](https://timyply.github.io/myVocab_Help_FR/Sample-Smoothies/Plum) (smoothies) ([edit](https://github.com/timyply/myVocab_Help_FR/edit/DataSource/Sample-Smoothies/Plum.md))
-- [Pronociation](https://timyply.github.io/myVocab_Help_FR/Cards/Pronunciation) (cards) ([edit](https://github.com/timyply/myVocab_Help_FR/edit/DataSource/Cards/Pronunciation.md))
+- [Prononciation](https://timyply.github.io/myVocab_Help_FR/Cards/Pronunciation) (cards) ([edit](https://github.com/timyply/myVocab_Help_FR/edit/DataSource/Cards/Pronunciation.md))
 - [Red berry smoothie](https://timyply.github.io/myVocab_Help_FR/Sample-Smoothies/RedBerries) (smoothies) ([edit](https://github.com/timyply/myVocab_Help_FR/edit/DataSource/Sample-Smoothies/RedBerries.md))
 - [Suppression d'une langue](https://timyply.github.io/myVocab_Help_FR/Languages/Delete) (languages) ([edit](https://github.com/timyply/myVocab_Help_FR/edit/DataSource/Languages/Delete.md))
 - [Suppression de cartes](https://timyply.github.io/myVocab_Help_FR/Cards/Delete) (cards) ([edit](https://github.com/timyply/myVocab_Help_FR/edit/DataSource/Cards/Delete.md))
