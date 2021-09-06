@@ -152,5 +152,12 @@
         "tags": [
             "purchases"
         ]
+    },
+    {
+        "title": "Widget",
+        "url": "https://timyply.github.io/myVocab_Help_FR/Cards/Widget",
+        "tags": [
+            "cards"
+        ]
     }
 ]

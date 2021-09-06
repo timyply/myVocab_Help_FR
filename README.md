@@ -69,6 +69,7 @@ class UIKitExampleController_MinimalCode: UIViewController {
 - [Suppression d'une langue](https://timyply.github.io/myVocab_Help_FR/Languages/Delete) (languages) ([edit](https://github.com/timyply/myVocab_Help_FR/edit/DataSource/Languages/Delete.md))
 - [Suppression de cartes](https://timyply.github.io/myVocab_Help_FR/Cards/Delete) (cards) ([edit](https://github.com/timyply/myVocab_Help_FR/edit/DataSource/Cards/Delete.md))
 - [Version Premium](https://timyply.github.io/myVocab_Help_FR/Purchases/VersionPremium) (purchases) ([edit](https://github.com/timyply/myVocab_Help_FR/edit/DataSource/Purchases/VersionPremium.md))
+- [Widget](https://timyply.github.io/myVocab_Help_FR/Cards/Widget) (cards) ([edit](https://github.com/timyply/myVocab_Help_FR/edit/DataSource/Cards/Widget.md))
 
 
 ## Notes
