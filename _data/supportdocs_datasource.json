@@ -112,7 +112,7 @@
         ]
     },
     {
-        "title": "La carte de la notification ne s'affiche pas",
+        "title": "Notifications",
         "url": "https://timyply.github.io/myVocab_Help_FR/Tests/NotificationBug",
         "tags": [
             "tests"
