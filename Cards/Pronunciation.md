@@ -1,5 +1,5 @@
 ---
-title: Pronociation
+title: Prononciation
 tags: cards
 ---
 
